@@ -147,5 +147,3 @@ pm2 start npm --name web -- start --prefix apps/web
 
 Desarrollado por [Jose Jara](https://pe.linkedin.com/in/jose-jeampier-jara-salas-882a03236)
 © 2025 Kraken Systems — Todos los derechos reservados.
-
-```

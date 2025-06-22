@@ -1,102 +1,86 @@
-# LICENCIA DE USO COMERCIAL
-**Sistema de Restaurantes - Kraken**
+LICENCIA DE USO COMERCIAL
+Sistema de Restaurantes - Kraken
 
----
+1. PROPIEDAD
+El presente sistema de software, comprendiendo la totalidad de su código fuente, arquitectura inherente, diseño estructurado, documentación técnica y cualesquiera componentes asociados, ha sido concebido y desarrollado en su plenitud por Jose Jara (en adelante, identificado como EL LICENCIANTE). La totalidad de los derechos relativos al mismo se hallan intrínsecamente reservados.
 
-## 1. PROPIEDAD
+Al LICENCIATARIO le es conferida, por virtud de este instrumento, únicamente una licencia de uso de carácter limitado, no exclusivo e intransferible del sistema, cuya observancia se encuentra sujeta a las condiciones pormenorizadas y establecidas en el presente documento.
 
-Este sistema de software, incluyendo su código fuente, arquitectura, diseño, documentación técnica y cualquier componente asociado, ha sido desarrollado por **Jose Jara** (en adelante, EL LICENCIANTE). Todos los derechos están reservados.
+2. ALCANCE DE LA LICENCIA
+La presente licencia faculta la utilización del sistema bajo las estipulaciones siguientes:
 
-EL LICENCIATARIO obtiene únicamente una licencia de uso limitada, no exclusiva e intransferible del sistema, bajo las condiciones detalladas en este documento.
+Denominación del sistema: Sistema Restaurantes Kraken
 
----
+Volumen de sedes autorizadas: Una (1) sede operativa
 
-## 2. ALCANCE DE LA LICENCIA
+Límite de usuarios concurrentes permitidos: Un máximo de diez (10) usuarios activos de forma simultánea
 
-Esta licencia permite el uso del sistema bajo las siguientes condiciones:
+Ámbito sectorial autorizado: Establecimientos de restauración, hostelería, cafeterías o entidades gastronómicas análogas
 
-- **Nombre del sistema:** Sistema Restaurantes Kraken
-- **Cantidad de sedes autorizadas:** 1 (una) sede
-- **Usuarios simultáneos permitidos:** Hasta 10 usuarios activos
-- **Sector autorizado:** Restaurantes, bares, cafeterías o negocios gastronómicos similares
+La utilización del sistema que exceda los parámetros aquí delineados requerirá la adquisición de una licencia de mayor amplitud o la formalización de una enmienda contractual, debidamente suscrita por ambas partes.
 
-El uso fuera de estos parámetros requiere una licencia ampliada o una modificación contractual firmada por ambas partes.
+3. RESTRICCIONES
+Queda taxativamente prohibida la realización de las siguientes acciones:
 
----
+La modificación, descompilación o la aplicación de procesos de ingeniería inversa sobre el código fuente del sistema.
 
-## 3. RESTRICCIONES
+La reventa, redistribución o la sublicencia del sistema sin la autorización expresa y previa de EL LICENCIANTE.
 
-Se prohíbe expresamente:
+La eliminación o la alteración de los créditos de autoría, los avisos de licencia o los elementos distintivos de la marca.
 
-- Modificar, descompilar o aplicar ingeniería inversa sobre el código fuente
-- Revender, redistribuir o sublicenciar el sistema sin permiso del LICENCIANTE
-- Quitar o alterar créditos de autoría, avisos de licencia o elementos de marca
-- Usar el sistema con fines distintos a los permitidos en esta licencia
+La utilización del sistema para finalidades que difieran de aquellas expresamente permitidas en virtud de la presente licencia.
 
----
+4. SOPORTE Y ACTUALIZACIONES
+El presente otorgamiento incluye:
 
-## 4. SOPORTE Y ACTUALIZACIONES
+Un período de tres (3) meses de soporte técnico fundamental, a ser proporcionado a través de comunicaciones electrónicas o por otros medios digitales habilitados.
 
-Incluye:
+La provisión de actualizaciones de menor envergadura (englobando la subsanación de errores detectados y la implementación de mejoras básicas) durante el mismo lapso temporal precedentemente mencionado.
 
-- **3 meses de soporte técnico básico**, vía correo electrónico o medios digitales
-- **Actualizaciones menores** (corrección de errores y mejoras básicas) durante el mismo periodo
+Cualquier requerimiento de soporte adicional, personalización específica o ampliación funcional de la plataforma implicará una contratación separada.
 
-Cualquier soporte adicional, personalización o ampliación funcional requerirá contratación separada.
+5. DURACIÓN DE LA LICENCIA
+La validez de la presente licencia se considera de carácter perpetuo, supeditada estrictamente al cabal cumplimiento de la totalidad de los puntos aquí establecidos.
 
----
+Ante la constatación de un incumplimiento de naturaleza grave, la revocación de la licencia podrá operarse de manera automática, y la continuidad del uso del sistema será, a partir de ese momento, considerada como no autorizada.
 
-## 5. DURACIÓN DE LA LICENCIA
+6. GARANTÍA LIMITADA
+El software es entregado en su condición de “tal cual”. Bajo ninguna circunstancia EL LICENCIANTE será considerado responsable de los siguientes eventos o perjuicios:
 
-La presente licencia es **perpetua**, condicionada al cumplimiento de todos los puntos establecidos.
+Daños de índole incidental o consecuencial.
 
-En caso de incumplimiento grave, la licencia puede ser revocada automáticamente y el uso del sistema será considerado no autorizado.
+Pérdidas de información, fallos de equipamiento de hardware o detrimentos económicos derivados.
 
----
+La utilización indebida del sistema por parte de EL LICENCIATARIO o de su personal adscrito.
 
-## 6. GARANTÍA LIMITADA
+7. VALIDACIÓN Y CONTROL DE LICENCIA
+El sistema incorpora un mecanismo intrínseco de validación, que opera mediante la utilización de una clave de licencia única. Dicha clave se caracteriza por lo siguiente:
 
-El software se entrega **“tal cual”**. EL LICENCIANTE no será responsable de:
+Es generada exclusivamente por EL LICENCIANTE.
 
-- Daños incidentales o consecuenciales
-- Pérdidas de datos, fallas de hardware o perjuicios económicos derivados
-- Mal uso del sistema por parte del LICENCIATARIO o su personal
+Su vinculación se establece con el cliente (mediante RUC/DNI) y la sede previamente registrada.
 
----
+Podrá requerir una conexión periódica a la red de internet para su proceso de validación.
 
-## 7. VALIDACIÓN Y CONTROL DE LICENCIA
+Cualquier uso no autorizado o la manipulación del mecanismo de licencia constituirá una violación directa del presente contrato.
 
-El sistema incorpora un mecanismo de validación mediante **clave de licencia única**. Esta clave:
+8. JURISDICCIÓN
+El presente contrato se rige, en todos sus extremos, por las leyes en vigor de la República del Perú. Toda controversia que pudiese surgir de la interpretación o ejecución del mismo será dirimida en la vía judicial pertinente, estableciéndose su sede en la jurisdicción de Lima Metropolitana.
 
-- Es generada por EL LICENCIANTE
-- Está asociada al cliente (RUC/DNI) y a la sede registrada
-- Puede requerir conexión a internet periódica para validación
+9. DATOS DEL LICENCIATARIO
+Razón social / Denominación: ___________________________________
 
-El uso no autorizado o manipulación del mecanismo de licencia será considerado violación directa de este contrato.
+Identificación (RUC / DNI): ___________________________________
 
----
+Ubicación (Sede / Local): ___________________________________
 
-## 8. JURISDICCIÓN
+Fecha de Emisión: //____
 
-Este contrato se rige por las leyes de la República del Perú. Cualquier controversia será resuelta en la vía judicial correspondiente, con sede en Lima Metropolitana.
-
----
-
-## 9. DATOS DEL LICENCIATARIO
-
-- **Razón social / Nombre:** ___________________________________  
-- **RUC / DNI:** ___________________________________  
-- **Sede / Local:** ___________________________________  
-- **Fecha de emisión:** ____/____/____  
-
----
-
-## 10. FIRMAS
-
-**El Licenciante**  
-Jose Jara  
-DNI: 70839550 
+10. FIRMAS
+El Licenciante
+Jose Jara
+DNI: 70839550
 Firma: jjeampierjs
 
-**El Licenciatario**  
+El Licenciatario
 Firma: ___________________
