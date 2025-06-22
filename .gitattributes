@@ -1,0 +1,5 @@
+# Fuerza a LF en todos los archivos de texto para evitar problemas multiplataforma
+* text=auto eol=lf
+
+# Para archivos específicos si deseas mantener CRLF (ej: scripts batch en Windows)
+*.bat text eol=crlf

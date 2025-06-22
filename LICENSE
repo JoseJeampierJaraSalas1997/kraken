@@ -1,0 +1,102 @@
+# LICENCIA DE USO COMERCIAL
+**Sistema de Restaurantes - Kraken**
+
+---
+
+## 1. PROPIEDAD
+
+Este sistema de software, incluyendo su código fuente, arquitectura, diseño, documentación técnica y cualquier componente asociado, ha sido desarrollado por **Jose Jara** (en adelante, EL LICENCIANTE). Todos los derechos están reservados.
+
+EL LICENCIATARIO obtiene únicamente una licencia de uso limitada, no exclusiva e intransferible del sistema, bajo las condiciones detalladas en este documento.
+
+---
+
+## 2. ALCANCE DE LA LICENCIA
+
+Esta licencia permite el uso del sistema bajo las siguientes condiciones:
+
+- **Nombre del sistema:** Sistema Restaurantes Kraken
+- **Cantidad de sedes autorizadas:** 1 (una) sede
+- **Usuarios simultáneos permitidos:** Hasta 10 usuarios activos
+- **Sector autorizado:** Restaurantes, bares, cafeterías o negocios gastronómicos similares
+
+El uso fuera de estos parámetros requiere una licencia ampliada o una modificación contractual firmada por ambas partes.
+
+---
+
+## 3. RESTRICCIONES
+
+Se prohíbe expresamente:
+
+- Modificar, descompilar o aplicar ingeniería inversa sobre el código fuente
+- Revender, redistribuir o sublicenciar el sistema sin permiso del LICENCIANTE
+- Quitar o alterar créditos de autoría, avisos de licencia o elementos de marca
+- Usar el sistema con fines distintos a los permitidos en esta licencia
+
+---
+
+## 4. SOPORTE Y ACTUALIZACIONES
+
+Incluye:
+
+- **3 meses de soporte técnico básico**, vía correo electrónico o medios digitales
+- **Actualizaciones menores** (corrección de errores y mejoras básicas) durante el mismo periodo
+
+Cualquier soporte adicional, personalización o ampliación funcional requerirá contratación separada.
+
+---
+
+## 5. DURACIÓN DE LA LICENCIA
+
+La presente licencia es **perpetua**, condicionada al cumplimiento de todos los puntos establecidos.
+
+En caso de incumplimiento grave, la licencia puede ser revocada automáticamente y el uso del sistema será considerado no autorizado.
+
+---
+
+## 6. GARANTÍA LIMITADA
+
+El software se entrega **“tal cual”**. EL LICENCIANTE no será responsable de:
+
+- Daños incidentales o consecuenciales
+- Pérdidas de datos, fallas de hardware o perjuicios económicos derivados
+- Mal uso del sistema por parte del LICENCIATARIO o su personal
+
+---
+
+## 7. VALIDACIÓN Y CONTROL DE LICENCIA
+
+El sistema incorpora un mecanismo de validación mediante **clave de licencia única**. Esta clave:
+
+- Es generada por EL LICENCIANTE
+- Está asociada al cliente (RUC/DNI) y a la sede registrada
+- Puede requerir conexión a internet periódica para validación
+
+El uso no autorizado o manipulación del mecanismo de licencia será considerado violación directa de este contrato.
+
+---
+
+## 8. JURISDICCIÓN
+
+Este contrato se rige por las leyes de la República del Perú. Cualquier controversia será resuelta en la vía judicial correspondiente, con sede en Lima Metropolitana.
+
+---
+
+## 9. DATOS DEL LICENCIATARIO
+
+- **Razón social / Nombre:** ___________________________________  
+- **RUC / DNI:** ___________________________________  
+- **Sede / Local:** ___________________________________  
+- **Fecha de emisión:** ____/____/____  
+
+---
+
+## 10. FIRMAS
+
+**El Licenciante**  
+Jose Jara  
+DNI: 70839550 
+Firma: jjeampierjs
+
+**El Licenciatario**  
+Firma: ___________________
